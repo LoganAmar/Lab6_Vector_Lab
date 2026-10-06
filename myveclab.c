@@ -14,6 +14,7 @@ void main(void){
 
     while(1){
         printf("myveclab> ");
+        printf("test");
 
         char input[10];
 

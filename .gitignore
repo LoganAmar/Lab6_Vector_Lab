@@ -1,0 +1,4 @@
+# dependancy files
+*.d
+# object files
+*.o
