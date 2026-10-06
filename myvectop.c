@@ -1,3 +1,10 @@
+/**
+* Logan Amar
+* CPE 2600 Lab5
+* myvectop.c
+* Main source file
+*/
+
 #include "myvectop.h"
 
 vect add(vect a, vect b){

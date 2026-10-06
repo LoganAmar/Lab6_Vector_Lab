@@ -1,3 +1,10 @@
+/**
+* Logan Amar
+* CPE 2600 Lab5
+* myveclab.h
+* Main source file
+*/
+
 struct vect{
     char name;
     int x;
